@@ -310,5 +310,47 @@
         "imageUrl": "https://mycinema.asia/image/avatar_3205.jpg"
       }
     ]
+  },
+  {
+    "categoryId": "7",
+    "categoryTitle": "Farnce Movies",
+    "categoryItemList": [
+      {
+        "id": "1",
+        "movieName": "The Last Mercenary (2021)",
+        "fileUrl": "https://mycinema.asia/media/films/The.Last.Mercenary.2021.360/The.Last.Mercenary.2021.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_7214.jpg"
+      },
+      {
+        "id": "2",
+        "movieName": "Oxygen",
+        "fileUrl": "https://mycinema.asia/media/films/Oxygen.2021.360p/Oxygen.2021.360p.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_6629.jpg"
+      },
+      {
+        "id": "3",
+        "movieName": "Don't Worry, He Won't Get Far on Foot",
+        "fileUrl": "https://mycinema.asia/media/films/Don't_Worry_He_Won't_Get_Far_On_Foot_2018_360/Don't_Worry_He_Won't_Get_Far_On_Foot_2018_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_4001.jpg"
+      },
+      {
+        "id": "4",
+        "movieName": "The Hunger Games",
+        "fileUrl": "https://mycinema.asia/media/films/The_Hunger_Games_2012_360/The_Hunger_Games_2012_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_2396.jpg"
+      },
+      {
+        "id": "5",
+        "movieName": "Pirates of the Caribbean: Dead Man's Chest",
+        "fileUrl": "https://mycinema.asia/media/films/Pirates_Of_The_Caribbean_Dead_Mans_Chest_2006_360/Pirates_Of_The_Caribbean_Dead_Mans_Chest_2006_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_1613.jpg"
+      },
+      {
+        "id": "6",
+        "movieName": "Youth",
+        "fileUrl": "https://mycinema.asia/media/films/Youth_2015/Youth_2015.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_546.jpg"
+      }
+    ]
   }
 ]
