@@ -252,8 +252,26 @@
       {
         "id": "3",
         "movieName": "Luang Pee Jazz 5G",
-        "fileUrl": "films/Luang_Pee_Jazz_5G_2018_360/Luang_Pee_Jazz_5G_2018_360.m3u8",
+        "fileUrl": "https://mycinema.asia/media/films/Luang_Pee_Jazz_5G_2018_360/Luang_Pee_Jazz_5G_2018_360.m3u8",
         "imageUrl": "https://mycinema.asia/image/avatar_4544.jpg"
+      },
+      {
+        "id": "4",
+        "movieName": "Nakee 2",
+        "fileUrl": "https://mycinema.asia/media/films/Nakee_2_2018_360/Nakee_2_2018_360.m3u8","films/Nakee_2_2018_720/Nakee_2_2018_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_4530.jpg"
+      },
+      {
+        "id": "5",
+        "movieName": "Ghost Wife",
+        "fileUrl": "https://mycinema.asia/media/films/Ghost_Wife_2018_360/Ghost_Wife_2018_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_4125.jpg"
+      },
+      {
+        "id": "6",
+        "movieName": "2gether: The Series",
+        "fileUrl": "https://mycinema.asia/media/series/2gether_The_Series/2gether_The_Series_Ep1_360/2gether_The_Series_Ep1_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_3764.jpg"
       }
     ]
   }
