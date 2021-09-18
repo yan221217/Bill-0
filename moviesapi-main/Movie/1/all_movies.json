@@ -352,5 +352,47 @@
         "imageUrl": "https://mycinema.asia/image/avatar_546.jpg"
       }
     ]
+  },
+  {
+    "categoryId": "7",
+    "categoryTitle": "US & UK Movies",
+    "categoryItemList": [
+      {
+        "id": "1",
+        "movieName": "Casino Royale (2006)",
+        "fileUrl": "https://mycinema.asia/media/films/Casino.Royale.2006.360/Casino.Royale.2006.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_7232.jpg"
+      },
+      {
+        "id": "2",
+        "movieName": "The Tomorrow War",
+        "fileUrl": "https://mycinema.asia/media/films/The.Tomorrow.War.2021.360p/The.Tomorrow.War.2021.360p.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_7227.jpg"
+      },
+      {
+        "id": "3",
+        "movieName": "Jolt (2021)",
+        "fileUrl": "https://mycinema.asia/media/films/Jolt.2021.360/Jolt.2021.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_7210.jpg"
+      },
+      {
+        "id": "4",
+        "movieName": "Blood Red Sky (2021)",
+        "fileUrl": "https://mycinema.asia/media/films/Blood.Red.Sky.2021.360/Blood.Red.Sky.2021.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_7206.jpg"
+      },
+      {
+        "id": "5",
+        "movieName": "Jungle Cruise (2021)",
+        "fileUrl": "https://mycinema.asia/media/films/Jungle.Cruise.2021.360/Jungle.Cruise.2021.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_7201.jpg"
+      },
+      {
+        "id": "6",
+        "movieName": "Space Jam: A New Legacy (2021)",
+        "fileUrl": "https://mycinema.asia/media/films/Space.Jam.A.New.Legacy.2021.360/Space.Jam.A.New.Legacy.2021.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_7190.jpg"
+      }
+    ]
   }
 ]
