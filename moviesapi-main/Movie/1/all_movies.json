@@ -272,6 +272,42 @@
         "movieName": "2gether: The Series",
         "fileUrl": "https://mycinema.asia/media/series/2gether_The_Series/2gether_The_Series_Ep1_360/2gether_The_Series_Ep1_360.m3u8",
         "imageUrl": "https://mycinema.asia/image/avatar_3764.jpg"
+      },
+      {
+        "id": "7",
+        "movieName": "Brother of the Year",
+        "fileUrl": "https://mycinema.asia/media/films/Brother_Of_The_Year_2018_360/Brother_Of_The_Year_2018_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_3585.jpg"
+      },
+      {
+        "id": "8",
+        "movieName": "App War",
+        "fileUrl": "https://mycinema.asia/media/films/App_War_2018_620/App_War_2018_620.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_3536.jpg"
+      },
+      {
+        "id": "9",
+        "movieName": "Zombie Fighters (Kud Krachak Krien)",
+        "fileUrl": "https://mycinema.asia/media/films/Zombie_Fighters_2017_360/Zombie_Fighters_2017_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_3390.jpg"
+      },
+      {
+        "id": "10",
+        "movieName": "15+ Coming of Age",
+        "fileUrl": "https://mycinema.asia/media/films/Coming_of_Age_2017_360/Coming_of_Age_2017_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_3305.jpg"
+      },
+      {
+        "id": "11",
+        "movieName": "Dew",
+        "fileUrl": "https://mycinema.asia/media/films/dew_2019_360/dew_2019_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_3247.jpg"
+      },
+      {
+        "id": "12",
+        "movieName": "Mr. Hurt",
+        "fileUrl": "https://mycinema.asia/media/films/Mr_hurt_2017_360/Mr_hurt_2017_360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/avatar_3205.jpg"
       }
     ]
   }
